@@ -9,7 +9,7 @@ We selected the following publicly available RNA-seq dataset as an example for w
 
 ### Pre-processing and differential analysis
 
-* The pre-processing and statistical anslysis was done with DESeq2 in R (see script here). 
+* The pre-processing and statistical anslysis was done with DESeq2 in R (see script [here](https://raw.githubusercontent.com/BIGCAT-COVID19/Workshop-July2022/main/data/preprocessing.R)). 
 * 21,207 genes were measured.
 * 1,333 genes are differentially expressed (p-value < 0.05, |log2FC| > 0.26)
 

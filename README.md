@@ -44,7 +44,7 @@ In this 3-day workshop, you will learn about molecular pathway curation, pathway
 <hr/>
 
 ### Dataset 
-On day 2 and 3 of the workshop, we will use a transcriptomics dataset as an example. More information about the dataset can be found [here](https://bigcat-covid19.github.io/Workshop-July2022/material/dataset).
+On day 2 and 3 of the workshop, we will use a transcriptomics dataset as an example. More information about the dataset can be found [here](https://bigcat-covid19.github.io/Workshop-July2022/data/dataset).
 
 <hr/>
 

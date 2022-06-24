@@ -48,6 +48,11 @@ On day 2 and 3 of the workshop, we will use a transcriptomics dataset as an exam
 
 <hr/>
 
+### Team
+
+
+<hr/>
+
 ### Contact
 
 If you have any questions, send us an email or submit an issue in the [issue tracker](https://github.com/BIGCAT-COVID19/Workshop-July2022/issues) and we will get back to you as soon as possible.

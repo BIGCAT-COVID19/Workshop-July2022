@@ -7,8 +7,7 @@
 * Susan Steinbusch-Coort
 * Martina Summer-Kutmon
 
-![image](https://user-images.githubusercontent.com/2158343/175510906-c842251b-5e16-4dc7-bb91-be06e2301200.png)
-
+![image](https://user-images.githubusercontent.com/2158343/175512914-d02e11d2-5b90-4086-a9d7-fb303d0856c4.png)
 
 <hr/>
 

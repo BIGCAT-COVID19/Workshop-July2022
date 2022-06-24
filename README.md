@@ -18,7 +18,7 @@
 
 | Date | Time | Title | Presenter | Link |
 |:----:|------|-------|------|------|
-| 5 July 2022 | 10:00-12:00 | Introduction and basics of pathway curation | Nhung Pham |  |
+| 5 July 2022 | 10:00-12:00 | Introduction and basics of pathway curation | Nhung Pham, Susan Steinbusch-Coort |  |
 |  | 12:00-13:00 | Lunch | | |
 |  | 13:00-16:00 | Draw your own pathway  | Nhung Pham | |
 |  | 16:00-17:00 | Discussion: Importance of curation | Martina Summer-Kutmon | |

@@ -9,6 +9,12 @@
 
 <hr/>
 
+### Description
+
+In this 3-day workshop, you will learn about molecular pathway curation, pathway and network analysis, and how to automate such an analysis in R to increase reproducibility. We would like to bring together researchers in the COVID-19 field to learn together, exchange ideas and discuss results. The course is a continuous program and builds on each other but it is possible to join only on specific days if needed.
+
+</hr>
+
 ### Requirements and preparation
 * Follow the [instructions](materials/Preparation_Instructions.md) to install all required software for the tutorial.
 
@@ -41,3 +47,8 @@
 ### Contact
 
 If you have any questions, send us an email or submit an issue in the [issue tracker](https://github.com/BIGCAT-COVID19/Workshop-July2022/issues) and we will get back to you as soon as possible.
+
+
+### Funding
+
+The workshop is sponsored by the ZonMW COVID-19 grant ([#10430012010015](https://www.zonmw.nl/nl/over-zonmw/coronavirus/programmas/project-detail/covid-19-programma/wikipathways-as-a-platform-for-covid-19-biological-pathway-models/)).

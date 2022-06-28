@@ -60,4 +60,4 @@ install.packages("data.table")
 **Contact**
 
 Feel free to contact us in case you have problems installing the software or packages (ideally before the workshop!).<br/>
-Submit an issue in the [Issue Tracker]([https://github.com/BIGCAT-COVID19/ISMB2021-workshop/issues](https://github.com/BIGCAT-COVID19/Workshop-July2022/issues)) and we will get back to you as soon as possible.
+Submit an issue in the [Issue Tracker](https://github.com/BIGCAT-COVID19/Workshop-July2022/issues) and we will get back to you as soon as possible.

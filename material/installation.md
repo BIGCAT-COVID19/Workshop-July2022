@@ -8,7 +8,7 @@ Please install the following tools (available on all platforms):
 
 Download the following databases:
 * BridgeDb human mapping databases - [Overiew](https://bridgedb.github.io/data/gene_database/) 
-  * Download the database for Homo spaiens: Hs_Derby_Ensembl_105.bridge
+  * Download the database for Homo sapiens: Hs_Derby_Ensembl_105.bridge
   * Download the metabolites database: metabolites_20210109.bridge
 
 <hr/>

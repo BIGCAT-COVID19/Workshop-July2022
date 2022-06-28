@@ -1,6 +1,6 @@
 # COVID19 pathway workshop
 
-**Date:** 5-7 July 2022 in Maastricht (details [location](materials/location.md]
+**Date:** 5-7 July 2022 in Maastricht (details [location](materials/location.md))
 
 **Organizers**: 
 Nhung Pham, Susan Steinbusch-Coort, Martina Summer-Kutmon

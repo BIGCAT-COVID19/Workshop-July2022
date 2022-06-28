@@ -32,9 +32,7 @@ Please install the following tools (available on all platforms):
 * [R v4.2.1](https://cloud.r-project.org/)
 * [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 
-<hr/>
-
-**Install required R-packages**
+Install required R-packages**
 
 Open RStudio after installing R and RStudio and install BioCManager and required packages (you can copy the code and run it in RStudio)
 ```R

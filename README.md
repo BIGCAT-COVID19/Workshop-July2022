@@ -1,6 +1,6 @@
 # COVID19 pathway workshop
 
-**Date:** 5-7 July 2022 in Maastricht (details [location](materials/location.md))
+**Date:** 5-7 July 2022 in Maastricht (details [location](material/location.md))
 
 **Organizers**: 
 Nhung Pham, Susan Steinbusch-Coort, Martina Summer-Kutmon
@@ -15,7 +15,7 @@ In this 3-day workshop, you will learn about molecular pathway curation, pathway
 
 
 ### Requirements and preparation
-* Follow the [instructions](materials/installation.md) to install all required software for the tutorial.
+* Follow the [instructions](material/installation.md) to install all required software for the tutorial.
 
 <hr/>
 

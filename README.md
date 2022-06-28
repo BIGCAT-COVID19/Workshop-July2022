@@ -15,7 +15,7 @@ In this 3-day workshop, you will learn about molecular pathway curation, pathway
 
 
 ### Requirements and preparation
-* Follow the [instructions](materials/Preparation_Instructions.md) to install all required software for the tutorial.
+* Follow the [instructions](materials/installation.md) to install all required software for the tutorial.
 
 <hr/>
 

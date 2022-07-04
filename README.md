@@ -23,7 +23,7 @@ In this 3-day workshop, you will learn about molecular pathway curation, pathway
 
 | Date | Time | Title | Presenter | Link |
 |:----:|------|-------|------|------|
-| 5 July 2022 | 10:00-12:00 | Introduction and basics of pathway curation | Nhung Pham, Susan Coort |  |
+| 5 July 2022 | 10:00-12:00 | Introduction and basics of pathway curation | Nhung Pham, Susan Coort | ([Opening slides]("https://docs.google.com/presentation/d/11R01LM5yvn6_4PgGPi-ZviCVisq6X0td/edit?usp=sharing&ouid=114880850354112975718&rtpof=true&sd=true")) |
 |  | 12:00-13:00 | Lunch | | |
 |  | 13:00-16:00 | Draw your own pathway  | Nhung Pham | |
 |  | 16:00-17:00 | Discussion: Importance of curation | Martina Kutmon | |

@@ -51,7 +51,7 @@ On day 2 and 3 of the workshop, we will use a transcriptomics dataset as an exam
 <hr/>
 
 ### Team
-
+![image]Instructors.png
 
 <hr/>
 

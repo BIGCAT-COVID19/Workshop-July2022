@@ -61,6 +61,14 @@ If you have any questions, send us an email or submit an issue in the [issue tra
 
 <hr/>
 
+### Literature 
+
+* WikiPathways: a multifaceted pathway database bridging metabolomics to other omics research [paper](https://doi.org/10.1093/nar/gkx1064)
+* Ten simple rules for creating reusable pathway models for computational analysis and visualization [paper](https://doi.org/10.1371/journal.pcbi.1009226)
+* COVID-19 Disease Map, a computational knowledge repository of virus-host interaction mechanisms [paper](https://doi.org/10.15252/msb.202110851)
+
+<hr/>
+
 ### Funding
 
 The workshop is sponsored by the ZonMW COVID-19 grant ([#10430012010015](https://www.zonmw.nl/nl/over-zonmw/coronavirus/programmas/project-detail/covid-19-programma/wikipathways-as-a-platform-for-covid-19-biological-pathway-models/)).

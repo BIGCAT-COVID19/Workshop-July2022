@@ -51,7 +51,6 @@ On day 2 and 3 of the workshop, we will use a transcriptomics dataset as an exam
 <hr/>
 
 ### Team
-![image](https://github.com/BIGCAT-COVID19/Workshop-July2022/blob/2d60c6b7fcc1a4875046f931f83f1d38803edab0/Instructors.png)
 * Friederike Ehrhart
 * Egon Willighagen
 * Finterly Hu

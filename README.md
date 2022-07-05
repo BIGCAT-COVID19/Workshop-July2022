@@ -27,7 +27,7 @@ In this 3-day workshop, you will learn about molecular pathway curation, pathway
 |  | 10:15-11:00 | Pathway Resources | Susan Coort | [slides](https://docs.google.com/presentation/d/1a_NXhEMcbVrA_8nD4g60sYZV0wBPe6Vs/edit?usp=sharing&ouid=106088253156517350015&rtpof=true&sd=true) |
 |  | 11:00-12:00 | Hands-on pathway curation | Nhung Pham | [slides](https://docs.google.com/presentation/d/1bcaqUlWK_0dlzh3NYf12fXnucp-_yVJi/edit?usp=sharing&ouid=106088253156517350015&rtpof=true&sd=true) |
 |  | 12:00-13:00 | Lunch | | |
-|  | 13:00-16:00 | Draw your own pathway  | Nhung Pham |[pathway list] (https://docs.google.com/spreadsheets/d/1Y5IZW_c45tQcilGIV-LIa-gSxlttyeunlU8LkrfyJFY/edit?usp=sharing)|
+|  | 13:00-16:00 | Draw your own pathway  | Nhung Pham |[pathway list] (https://docs.google.com/spreadsheets/d/1Y5IZW_c45tQcilGIV-LIa-gSxlttyeunlU8LkrfyJFY/edit?usp=sharing) |
 |  | 16:00-17:00 | Discussion: Importance of curation | Martina Kutmon | |
 |  | 17:30-22:30 | Social Event & Dinner | |  |
 | | | | | |

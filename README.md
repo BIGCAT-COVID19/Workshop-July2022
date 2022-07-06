@@ -31,9 +31,9 @@ In this 3-day workshop, you will learn about molecular pathway curation, pathway
 |  | 16:00-17:00 | Discussion: Importance of curation | Martina Kutmon | |
 |  | 17:30-22:30 | Social Event & Dinner | |  |
 | | | | | |
-| 6 July 2022 | 10:00-12:00 | Introduction to Cytoscape | Martina Kutmon | [Info](material/day2/cytoscape.md)|
+| 6 July 2022 | 10:00-12:00 | Introduction to Cytoscape | Martina Kutmon | [Info/Material](material/day2/cytoscape.md)|
 |  | 12:00-13:00 | Lunch | | |
-|  | 13:00-14:30 | Pathway analysis | Martina Kutmon | |
+|  | 13:00-14:30 | Pathway analysis | Martina Kutmon | [Info/Material](material/day2/pathway-analysis.md) |
 |  | 14:30-14:45 | Break | | |
 |  | 14:45-16:30 | Network analysis | Martina Kutmon | |
 |  | 16:30-17:00 | Q&A | | |

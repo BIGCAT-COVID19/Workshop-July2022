@@ -5,7 +5,7 @@ We will start with an introductory lecture after which you will have time to get
 
 ### Lecture
 
-Slides: []
+Slides: [link](https://docs.google.com/presentation/d/1kztcq_0fYq2jXv0yYT4NNIJKf1qEBKuUh0PyYp-TTkE/edit?usp=sharing)
 
 ### Hands-on session
 

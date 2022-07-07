@@ -38,7 +38,7 @@ In this 3-day workshop, you will learn about molecular pathway curation, pathway
 |  | 14:45-16:30 | Network analysis | Martina Kutmon | [Info/Material](material/day2/network-analysis.md) |
 |  | 16:30-17:00 | Q&A | | |
 | | | | | |
-| 7 July 2022 | 10:00-12:00 | Automation in R | Martina Kutmon | |
+| 7 July 2022 | 10:00-12:00 | Automation in R | Martina Kutmon | [Info/Material](material/day3/automation.md) |
 |  | 12:00-13:00 | Lunch | | |
 |  | 13:00-16:00 | Bring your own data / Practice |  | |
 |  | 16:00-17:00 | Q&A - evaluation - closing | | |
